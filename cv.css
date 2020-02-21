@@ -1,0 +1,59 @@
+ body{	
+     
+    	background : linear-gradient(to right, LightBlue, blue );           
+        font-family: Georgia ;
+		width:95%; 	
+		border-radius: 5px 5px 8px 5px;
+		box-shadow: 5px 5px 8px 8px black;
+		text-shadow: 1px 1px 1px black;
+		
+  
+	
+	
+     }
+	
+		 .rotation90 {  
+		 -webkit-transform: rotate(90deg);
+         -moz-transform: rotate(90deg);
+         -ms-transform: rotate(90deg);
+         -o-transform: rotate(90deg);
+          transform: rotate(90deg);
+         }
+         
+	ol{	 
+       background : linear-gradient(to right, #FFBBFF, magenta );
+       padding: 8px;
+       opacity: 0.8;
+	   border-radius: 5px 5px 8px 5px;
+	   box-shadow: 5px 5px 5px 8px black;
+     
+     }
+	 
+	 
+	 
+	h4{
+		color :#8B008B ; 
+		font-size: x-large; 
+		font-weight: bold; 
+		font-style: oblique;
+		text-align: left; 
+		letter-spacing: 5px;
+		border: ridge;
+		border-radius: 0px 0px 8px 5px;
+		box-shadow: 0px 0px 5px 8px black;
+	}
+   p{
+		font-size: large;
+		font-weight: bold;
+		font-style: oblique;
+		text-align: left;
+        letter-spacing: 1px;
+		}
+      
+	
+	
+  
+
+
+
+  
